@@ -17,9 +17,7 @@
 ## Table of Contents
 
 * [Setup](#Setup)
-  * [Setup theme kit](#Setup theme kit)
-  * [Modify theme.liquid](#Modify theme.liquid)
-* [Compatibility issues shopify + Tailwindcss](#Compatibility issues shopify with tailwind)
+* [Compatibility issues shopify and Tailwindcss](#Compatibility issues shopify  Tailwindcss)
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [useful link](#useful-link)
