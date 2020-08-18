@@ -10,15 +10,14 @@
 ---
 ### Debut theme starter project using tailwindcss.
 #### This project is the most easy way to combine shopify theme (css/sass) using tailwindCSS without css override.
-![Alt text](https://i.imgur.com/pZe9RNT.png)
+![Alt text](https://i.imgur.com/FW8hMrp.png)
 
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
 * [Setup](#Setup)
-* [Compatibility issues shopify and Tailwindcss](#Compatibility issues shopify  Tailwindcss)
-* [Usage](#usage)
+* [Compatibility issues](#Compatibility issues)
 * [Contributing](#contributing)
 * [useful link](#useful-link)
 
