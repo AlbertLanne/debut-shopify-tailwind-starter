@@ -1,0 +1,33 @@
+{
+  "name": "spy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development postcss tailwind.css -o assets/file.css",
+    "prod": "cross-env NODE_ENV=production postcss tailwind.css -o assets/file.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertLanne/spy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlbertLanne/spy/issues"
+  },
+  "homepage": "https://github.com/AlbertLanne/spy#readme",
+  "dependencies": {
+    "autoprefixer": "^9.5.1",
+    "tailwindcss": "^1.0"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^1.2.0",
+    "concurrently": "^4.1.0",
+    "cross-env": "^5.2.0",
+    "cssnano": "^4.1.10",
+    "live-server": "^1.2.1",
+    "postcss-cli": "^6.1.2"
+  }
+}

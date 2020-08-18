@@ -1,0 +1,12 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+.text-red-50 {
+    color: #db3332
+}
+
+.border-red-50 {
+    color: #db3332
+}
+
+@import "tailwindcss/utilities";

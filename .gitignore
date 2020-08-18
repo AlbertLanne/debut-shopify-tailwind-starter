@@ -1,0 +1,4 @@
+node_modules
+condig.yml
+.idea/
+package-lock.json

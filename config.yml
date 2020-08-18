@@ -1,0 +1,5 @@
+development:
+  password: passwordPrivateAppToEditTheme
+  theme_id: yourIdTheme
+  store: yourCoolShop.myshopify.com
+  timeout: 800s
